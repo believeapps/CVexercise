@@ -1,0 +1,30 @@
+{
+  "name": "cvtaller",
+  "version": "1.0.0",
+  "description": "CV with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdev12/cvTaller.git"
+  },
+  "keywords": [
+    "CV",
+    "Express",
+    "Node"
+  ],
+  "author": "chrisdev12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdev12/cvTaller/issues"
+  },
+  "homepage": "https://github.com/chrisdev12/cvTaller#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
